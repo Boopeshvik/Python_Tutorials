@@ -1,0 +1,27 @@
+#GIT Instruction
+Git clone ("Repo URL")
+Git add .
+git status
+git commit -m ("Commit instruction")
+git push origin main
+
+#Python Tutorial
+1. Print
+2. Variables
+   - Python is a object oriented not statically typed.
+   - Every variable in python is a object.
+   - So we need not declare the variable nor their type.
+2.1 Types of Variables
+    1. Numbers
+    2. Strings
+   - Python Supports two types of numbers which are integers(Whole number) and floating point numbers(decimal)
+   Syntax for integer :int = 10
+   Syntax for Float : float = 5.5
+   Syntax for finding the type of the object : What_type = type(object)
+  - Strings are represented either in single or double qutoes
+  Example : my_string = "I love India"
+3. List
+   - List is as similar to arrays
+   - They can contain any type of variable and any number of variables.
+   Example : my_list = [1,2,3]
+
