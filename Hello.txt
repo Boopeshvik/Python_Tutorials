@@ -1,0 +1,6 @@
+#GIT Instruction
+Git clone ("Repo URL")
+Git add .
+git status
+git commit -m ("Commit instruction")
+git push origin main
