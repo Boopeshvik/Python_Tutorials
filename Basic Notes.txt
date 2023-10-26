@@ -24,4 +24,15 @@ git push origin main
    - List is as similar to arrays
    - They can contain any type of variable and any number of variables.
    Example : my_list = [1,2,3]
+4. Arithematic Operators
+   - Add Sub , multiply , Division can be used in Python.
+   - % Can be used to find the remainder.
+   - Using two multiplication symbol ** makes power relationship.
+   - Strings can also be used with addition operator.
+   - Strings can also be used with multiplication.
+   - Lists can be joined with additional Operator.
+5. String Formatting
+   - Python uses c- style formatting to create new formatting strings.
+   - The % operator is used to format a set of variables enclosed.
+
 
