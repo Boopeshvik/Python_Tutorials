@@ -35,4 +35,11 @@ git push origin main
    - Python uses c- style formatting to create new formatting strings.
    - The % operator is used to format a set of variables enclosed.
 
+6. Boolean Operations
+   - True or False.
+   - And , OR operators
+   - The IN operator can be used to check if the selected object is present in a itratable kind of list.
+   - Unlike the == operator the IS operator does not match the values of the variables, but the actual instances
+   themseleves.
+   - Using NOT operator before the boolen reverse it.
 
