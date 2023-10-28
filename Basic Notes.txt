@@ -42,4 +42,9 @@ git push origin main
    - Unlike the == operator the IS operator does not match the values of the variables, but the actual instances
    themseleves.
    - Using NOT operator before the boolen reverse it.
+7. Loop
+   - There are two type of loops, For & While
+   - For loop itrerate over a given sequence.
+8. Functions
+   - functions are blocks of reusable code
 
