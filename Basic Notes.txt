@@ -48,3 +48,10 @@ git push origin main
 8. Functions
    - functions are blocks of reusable code
 
+Hacker rank website Python problems
+
+1. Print
+2. if else
+
+
+
